@@ -1,0 +1,21 @@
+{
+  "targets": {
+    "status-lead": {
+      "hosting": {
+        "statuslead-uat": [
+          "status-lead"
+        ]
+      }
+    },
+    "statusleadlocal": {
+      "hosting": {
+        "statusleadlocal": [
+          "statusleadlocal"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "statusleadlocal"
+  }
+}
